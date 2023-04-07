@@ -182,7 +182,7 @@ So, the first thing to do to train model on Colab - Sampling original train data
 In `sampling.ipynb`, i have coded some function that can do that, sampling {10K, 20K, 30K, 40K} and share it to my team to experience together. Link of samples below (you can use it as a reference or create a new one):
 [Sapmles](https://drive.google.com/drive/folders/1ozRICdlw_mrpaWUSTVFHWHbU8lbrhr0t?usp=sharing)
 
-![Early Stopping] (./img/early-stopping.jpg)
+![Early Stopping] (./img/early-stopping.png)
 
 After training on 40K sample, these are score evaluation for BiDAF baseline
 ![AvNa](./img/AvNA.png)
